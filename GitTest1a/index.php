@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>This is a Git Commit test!</title>
+        <title>This is a Git Commit test! Test Update.</title>
     </head>
     <body>
         <?php
